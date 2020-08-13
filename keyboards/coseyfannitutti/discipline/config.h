@@ -24,6 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MANUFACTURER    coseyfannitutti
 #define PRODUCT         DISCIPLINE
 #define DESCRIPTION     65% keyboard that can be assembled with only through hole components
+#define TAPPING_TERM 150
 
 /* key matrix size */
 #define MATRIX_ROWS 5
