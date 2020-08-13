@@ -57,8 +57,3 @@ qk_tap_dance_action_t tap_dance_actions[] = {
 	[TD_SCLN_COLN] = ACTION_TAP_DANCE_DOUBLE(KC_SCLN, KC_COLN),
     [TD_A_UMLT] = ACTION_TAP_DANCE_DOUBLE(KC_A, DE_UDIA)
 };
-
-// Add tap dance item in place of a key code
-const uint16_t PROGMEM keymaps[0] [MATRIX_ROWS][MATRIX_COLS] = {
-	
-};
